@@ -1,84 +1,59 @@
-MediMap
-Overview
-AI-powered mobile app for real-time prescription medicine search
+# MediMap
 
-Designed to connect patients with nearby pharmacies
+## Overview
+- AI-powered mobile app for real-time prescription medicine search  
+- Connects patients with nearby pharmacies  
+- Focused on healthcare access in Sri Lanka
 
-Built for the Sri Lankan healthcare market
+## Deployment
+- **Frontend:** Flutter (iOS & Android)  
+- **Backend:** Node.js, Firebase  
+- **Status:** Beta testing in selected regions
 
-Deployment
-Frontend: Deployed using Flutter (iOS & Android)
+## Tech Stack
+- **Frontend:** Flutter  
+- **Backend:** Node.js, Firebase  
+- **Database & Hosting:** Firebase Realtime Database, Firebase Hosting  
+- **APIs:**  
+  - Google Maps API  
+  - Stripe / PayPal  
+- **Logic:**  
+  - Intelligent search algorithm  
+  - Alternative brand suggestions
 
-Backend: Deployed using Node.js and Firebase
+## Features
+- Upload prescriptions  
+- Notify nearby pharmacies  
+- Get stock confirmations with prices  
+- Map-based pharmacy view  
+- Online ordering & payment  
+- Suggests alternative medicines  
+- Premium pharmacy dashboard
 
-Launch Phase: Beta testing in selected regions
+## Purpose & Impact
+- Reduce delays and stress in finding medicines  
+- Improve rural and urban access to healthcare  
+- Digitally empower pharmacies  
+- Minimize unnecessary travel
 
-Tech Stack
-Frontend: Flutter
+## Real-World Scenario
+- User uploads prescription  
+- Pharmacies get notified  
+- App displays availability and prices  
+- User pays online and collects order
 
-Backend: Node.js, Firebase
+## Business Model
+- **Freemium:** Basic pharmacy listing  
+- **Premium:** Live stock updates, analytics  
+- **Commission:** Small transaction fee  
+- **Ads:** From pharmaceutical partners
 
-Database & Hosting: Firebase Realtime Database, Firebase Hosting
+## Team
+- Rashmi Kaveesha  
+- Prabath Kavinda  
+- Nadun Thilina  
+- Prasanna Indunil  
 
-APIs Used:
-
-Google Maps API (location-based tracking)
-
-Stripe / PayPal (online payments)
-
-Algorithms:
-
-Intelligent search and radius expansion
-
-Alternative brand suggestion
-
-Features
-📸 Upload prescriptions directly via app
-
-🔔 Notify nearby pharmacies in real-time
-
-✅ Get stock confirmations with pricing
-
-🗺️ View available pharmacies on map
-
-💳 Make online payments within the app
-
-💊 Receive alternative brand suggestions
-
-📊 Pharmacy dashboard with premium features
-
-Purpose & Impact
-🚑 Reduce medicine acquisition delays and stress
-
-📍 Improve access in rural and urban areas
-
-🏪 Empower pharmacies with digital tools
-
-🌍 Lower carbon footprint by reducing travel
-
-Real-World Use Case
-User uploads a prescription
-
-Nearby pharmacies are notified
-
-Pharmacies respond with stock & prices
-
-User selects, pays, and picks up the order
-
-Business Model
-🆓 Freemium model for basic pharmacy listings
-
-💼 Premium plan for live stock and analytics
-
-💰 Commission on transactions
-
-📢 In-app advertising for pharmaceutical brands
-
-Team
-👩‍💻 Rashmi Kaveesha
-
-👨‍💻 Prabath Kavinda
-
-👨‍💻 Nadun Thilina
-
-👨‍💻 Prasanna Indunil
+## Contact
+- 📧 kaveesharashmi68@gmail.com  
+- 📞 +94 743 586 609
