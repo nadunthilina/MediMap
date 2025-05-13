@@ -1,58 +1,84 @@
 MediMap
+Overview
+AI-powered mobile app for real-time prescription medicine search
 
-#Overview
-#MediMap is an AI-powered mobile application designed to help users locate and order prescription medicines from nearby pharmacies in real-time. The app leverages intelligent search, pharmacy notification systems, and real-time stock updates to enhance healthcare accessibility in Sri Lanka.
+Designed to connect patients with nearby pharmacies
 
+Built for the Sri Lankan healthcare market
 
-#Deployment
-•	Frontend: Deployed via Flutter (iOS & Android).
-•	Backend: Firebase & Node.js for database and logic.
-•	Launch: Beta version deployed for pilot testing in select regions.
+Deployment
+Frontend: Deployed using Flutter (iOS & Android)
 
+Backend: Deployed using Node.js and Firebase
 
+Launch Phase: Beta testing in selected regions
 
 Tech Stack
-•	Frontend: Flutter
-•	Backend: Node.js, Firebase
-•	Database & Hosting: Firebase Realtime Database, Firebase Hosting
+Frontend: Flutter
 
+Backend: Node.js, Firebase
 
+Database & Hosting: Firebase Realtime Database, Firebase Hosting
 
-•	APIs:
-	Google Maps API (for location-based pharmacy tracking)
-	Stripe/PayPal (for secure online payments)
+APIs Used:
 
-•	ML & Logic:
-	Custom algorithms for intelligent medicine search
-	Brand substitution and query radius expansion
+Google Maps API (location-based tracking)
 
+Stripe / PayPal (online payments)
 
+Algorithms:
+
+Intelligent search and radius expansion
+
+Alternative brand suggestion
 
 Features
-•	Upload prescription and notify nearby pharmacies
-•	Real-time stock and price confirmations
-•	Visual map interface showing pharmacy availability
-•	Online ordering with payment integration
-•	Alternative medicine suggestions
-•	Premium dashboard for pharmacies
+📸 Upload prescriptions directly via app
 
+🔔 Notify nearby pharmacies in real-time
 
+✅ Get stock confirmations with pricing
+
+🗺️ View available pharmacies on map
+
+💳 Make online payments within the app
+
+💊 Receive alternative brand suggestions
+
+📊 Pharmacy dashboard with premium features
 
 Purpose & Impact
-•	Reduce stress, delay, and cost in medicine acquisition
-•	Improve healthcare access, especially in rural areas
-•	Digitally empower pharmacies with real-time inventory visibility
+🚑 Reduce medicine acquisition delays and stress
 
+📍 Improve access in rural and urban areas
 
+🏪 Empower pharmacies with digital tools
+
+🌍 Lower carbon footprint by reducing travel
 
 Real-World Use Case
-•	User uploads a prescription.
-•	App alerts nearby pharmacies.
-•	Pharmacies confirm availability.
-•	User views options on map, pays online, and collects the order.
+User uploads a prescription
+
+Nearby pharmacies are notified
+
+Pharmacies respond with stock & prices
+
+User selects, pays, and picks up the order
 
 Business Model
-•	Freemium model for basic pharmacy listing
-•	Premium features for analytics and live stock updates
-•	Commission-based transactions
-•	In-app advertising for pharmaceutical partners
+🆓 Freemium model for basic pharmacy listings
+
+💼 Premium plan for live stock and analytics
+
+💰 Commission on transactions
+
+📢 In-app advertising for pharmaceutical brands
+
+Team
+👩‍💻 Rashmi Kaveesha
+
+👨‍💻 Prabath Kavinda
+
+👨‍💻 Nadun Thilina
+
+👨‍💻 Prasanna Indunil
