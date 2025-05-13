@@ -1,10 +1,10 @@
 MediMap
 
-Overview
-MediMap is an AI-powered mobile application designed to help users locate and order prescription medicines from nearby pharmacies in real-time. The app leverages intelligent search, pharmacy notification systems, and real-time stock updates to enhance healthcare accessibility in Sri Lanka.
+#Overview
+#MediMap is an AI-powered mobile application designed to help users locate and order prescription medicines from nearby pharmacies in real-time. The app leverages intelligent search, pharmacy notification systems, and real-time stock updates to enhance healthcare accessibility in Sri Lanka.
 
 
-Deployment
+#Deployment
 •	Frontend: Deployed via Flutter (iOS & Android).
 •	Backend: Firebase & Node.js for database and logic.
 •	Launch: Beta version deployed for pilot testing in select regions.
