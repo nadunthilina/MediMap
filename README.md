@@ -54,6 +54,4 @@
 - Nadun Thilina  
 - Prasanna Indunil  
 
-## Contact
-- 📧 kaveesharashmi68@gmail.com  
-- 📞 +94 743 586 609
+
