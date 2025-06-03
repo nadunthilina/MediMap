@@ -1,57 +1,16 @@
-# MediMap
+# flutter_application_1
 
-## Overview
-- AI-powered mobile app for real-time prescription medicine search  
-- Connects patients with nearby pharmacies  
-- Focused on healthcare access in Sri Lanka
+A new Flutter project.
 
-## Deployment
-- **Frontend:** Flutter (iOS & Android)  
-- **Backend:** Node.js, Firebase  
-- **Status:** Beta testing in selected regions
+## Getting Started
 
-## Tech Stack
-- **Frontend:** Flutter  
-- **Backend:** Node.js, Firebase  
-- **Database & Hosting:** Firebase Realtime Database, Firebase Hosting  
-- **APIs:**  
-  - Google Maps API  
-  - Stripe / PayPal  
-- **Logic:**  
-  - Intelligent search algorithm  
-  - Alternative brand suggestions
+This project is a starting point for a Flutter application.
 
-## Features
-- Upload prescriptions  
-- Notify nearby pharmacies  
-- Get stock confirmations with prices  
-- Map-based pharmacy view  
-- Online ordering & payment  
-- Suggests alternative medicines  
-- Premium pharmacy dashboard
+A few resources to get you started if this is your first Flutter project:
 
-## Purpose & Impact
-- Reduce delays and stress in finding medicines  
-- Improve rural and urban access to healthcare  
-- Digitally empower pharmacies  
-- Minimize unnecessary travel
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-## Real-World Scenario
-- User uploads prescription  
-- Pharmacies get notified  
-- App displays availability and prices  
-- User pays online and collects order
-
-## Business Model
-- **Freemium:** Basic pharmacy listing  
-- **Premium:** Live stock updates, analytics  
-- **Commission:** Small transaction fee  
-- **Ads:** From pharmaceutical partners
-
-## Team
-- Rashmi Kaveesha  
-- Prabath Kavinda  
-- Nadun Thilina  
-- Prasanna Indunil  
-
-
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
