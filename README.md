@@ -1,4 +1,4 @@
-# flutter_application_1
+# medimap_pharmacy_app
 
 A new Flutter project.
 
